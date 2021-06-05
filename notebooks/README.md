@@ -1,5 +1,15 @@
 ### ResNet - Deep residual learning for image recognition
 
+<br>
+
 ![resnet_00](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/tree/main/docs/img/resnet_00.png)
 
+<br>
+
 ![resnet_01](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/tree/main/docs/img/resnet_01.png)
+
+<br>
+
+![resnet_02](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/tree/main/docs/img/resnet_02.png)
+
+<br><br>
