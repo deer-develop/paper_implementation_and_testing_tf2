@@ -11,6 +11,14 @@
 
 <br><br>
 
+### principles
+
+<br>
+
+- 모든 노트북은 TensorBoard 를 지원합니다.
+
+<br>
+
 ### prefix, posfix
 
 <br>
