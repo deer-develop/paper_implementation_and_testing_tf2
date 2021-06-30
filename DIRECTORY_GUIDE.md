@@ -34,6 +34,8 @@
       - ```WEIGHTS_DIR``` = /weights
       - ```MODELS_DIR``` = /models
       - ```BACKUP_DIR``` = /modelbackup
+    - ```GIT_WS_THIRDPARTY_<숫자>``` = /<서드파티 라이브러리 이름>
+    - ...
 
 <br><br>
 
