@@ -49,3 +49,9 @@
 ![resnet_02](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/resnet_02.png?raw=true)
 
 <br><br>
+
+## sm - Segmentation Library
+
+<br>
+
+![sm_00](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_00.png?raw=true)
