@@ -50,7 +50,27 @@
 
 <br><br>
 
-## sm - Segmentation Library
+## sm - Segmentation Models
+
+<br>
+
+### support
+
+<br>
+
+- [x] Google COLAB GPU + Google Drive + tf.keras
+- [x] Google COLAB GPU + Google Cloud Storage + tf.keras
+- [ ] Google COLAB TPU + Google Cloud Storage + tf.keras *tf.keras 데이터로더로는 TPU용 모델 훈련이 불가능함.*
+- [x] Google COLAB GPU + Google Drive + tf.data
+- [x] Google COLAB GPU + Google Cloud Storage + tf.data
+- [ ] Google COLAB TPU + Google Cloud Storage + tf.data
+  - [x] grayscaled mask *Multiclass Segmentation 을 위한 Grayscale mask 영상의 픽셀값이 1채널 정수값을 나타냄.*
+  - [ ] rgb colored mask *도와주세요: 왜 안되는지 모름*
+- [x] Google COLAB GPU + Google Drive + tfrecord
+- [x] Google COLAB GPU + Google Cloud Storage + tfrecord
+- [ ] Google COLAB TPU + Google Cloud Storage + tfrecord
+  - [x] grayscaled mask
+  - [ ] rgb colored mask
 
 <br>
 
