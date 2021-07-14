@@ -102,6 +102,12 @@
 
 <br>
 
+- 이 노트북은 내부 문서와 함께 관리됩니다. 아래 스크린샷은 예시입니다.
+
+![sm_uml](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_uml.png?raw=true)
+
+<br>
+
 - 이 노트북은 CamVid dataset 을 지원합니다. 다운로드 코드가 내장되어 있습니다.
 
 ![sm_camvid](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_camvid.png?raw=true)
