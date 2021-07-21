@@ -132,3 +132,23 @@
 ![sm_support_augmentation](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_support_augmentation.png?raw=true)
 
 <br>
+
+- 이 노트북은 keras.Sequence 로더를 기반으로 한 numeric validation 을 지원합니다.
+
+![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_1.png?raw=true)
+![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_2.png?raw=true)
+![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_3.png?raw=true)
+![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_4.png?raw=true)
+
+<br>
+
+```
+4635/4635 [==============================] - 7667s 2s/step - loss: 0.9736 - iou_score: 0.7639 - f1-score: 0.7904 - categorical_acc: 0.8548
+what - if your <prediction input size> == <training input size>
+evaluate shape : (1,320,320,3)
+mean iou_score: 0.76389
+mean f1-score: 0.79038
+mean categorical_acc: 0.85481
+```
+
+<br>
