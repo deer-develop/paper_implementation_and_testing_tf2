@@ -135,6 +135,7 @@
 
 - 이 노트북은 keras.Sequence 로더를 기반으로 한 numeric validation 을 지원합니다.
 
+![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_cherrypick.png?raw=true)
 ![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_1.png?raw=true)
 ![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_2.png?raw=true)
 ![sm_aihubpedestrian](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/blob/main/docs/img/sm_aihubpedestrian_validation_3.png?raw=true)
