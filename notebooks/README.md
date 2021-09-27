@@ -2,6 +2,17 @@
 
 <br>
 
+### completed notebooks
+
+<br>
+
+정리가 완료되어 쉽게 사용할 수 있는 노트북입니다.
+
+- [x] resnet
+- [ ] sm_test
+
+<br>
+
 ## Convention
 
 <br>
@@ -74,9 +85,9 @@
 
 <br>
 
-- CPU
+- **CPU**
   - no support
-- Google COLAB GPU
+- **Google COLAB GPU**
   - [ ] read mask
     - [x] classid 로 구성된 마스크
     - [ ] classid 로 구성된 마스크, 여러 클래스를 묶어서 하나의 클래스로 학습
@@ -86,7 +97,7 @@
   - [x] augmentation
     - [x] albumentation
   - [x] trainingset aware preprocessing (현재로써는 imagenet)
-- Google COLAB TPU
+- **Google COLAB TPU**
   - [ ] read mask
     - [x] classid 로 구성된 마스크
     - [ ] classid 로 구성된 마스크, 여러 클래스를 묶어서 하나의 클래스로 학습
