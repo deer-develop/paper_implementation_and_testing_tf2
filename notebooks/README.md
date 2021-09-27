@@ -94,7 +94,7 @@
     - [x] 색상으로 구성된 마스크, 여러 클래스를 묶어서 하나의 클래스로 학습
   - [x] resize
   - [ ] augmentation
-  - [x] trainingset aware preprocessing (현재로써는 imagenet)
+  - [ ] trainingset aware preprocessing (지원 안함, [참고 issue](https://github.com/ProtossDragoon/paper_implementation_and_testing_tf2/issues/4))
 
 <br>
 
